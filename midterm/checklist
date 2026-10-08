@@ -1,0 +1,61 @@
+CS631 MIDTERM CHECKLIST
+======================
+Student: Hoang Duc Tien
+Student ID: 23CE078
+
+SOURCE / STRUCTURE
+[ ] midterm directory used
+[ ] multiple .c files used
+[ ] header files used
+[ ] Makefile included
+[ ] README included
+[ ] checklist included
+[ ] LOG generated from git log before final archive
+
+OPTIONS
+[ ] -A
+[ ] -a
+[ ] -c
+[ ] -d
+[ ] -F
+[ ] -f
+[ ] -h
+[ ] -i
+[ ] -k
+[ ] -l
+[ ] -n
+[ ] -q
+[ ] -R
+[ ] -r
+[ ] -S
+[ ] -s
+[ ] -t
+[ ] -u
+[ ] -w
+
+FUNCTIONAL TESTS
+[ ] no arguments
+[ ] regular file operand
+[ ] directory operand
+[ ] multiple operands
+[ ] hidden files
+[ ] long format
+[ ] inode display
+[ ] numeric UID/GID
+[ ] recursive listing
+[ ] size sorting
+[ ] time sorting
+[ ] reverse sorting
+[ ] human-readable sizes
+[ ] block counts
+[ ] symbolic links
+[ ] executable marker
+[ ] invalid path / error status
+[ ] git status clean
+[ ] final tar archive created
+
+SUBMISSION
+[ ] README explains testing
+[ ] git log exported to LOG
+[ ] archive named <username>-midterm.tar
+[ ] archive extracts to username directory

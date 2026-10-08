@@ -1,0 +1,11 @@
+commit 1253775aa8f5cae88130505ab25d1f341f1361c1
+Author: Hoang Duc Tien <hoangductien@stevens.edu>
+Date:   Thu Oct 8 01:42:42 2026 +0000
+
+    add git log for submission
+
+commit 58a04bda2d02aea1ba7ac0121e7e0d8215a512b6
+Author: Hoang Duc Tien <hoangductien@stevens.edu>
+Date:   Thu Oct 8 01:42:42 2026 +0000
+
+    implement ls midterm
